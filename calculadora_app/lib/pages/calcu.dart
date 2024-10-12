@@ -28,7 +28,7 @@ class _CalculadoraState extends State<Calculadora1> {
       alignment: Alignment.centerRight,
       padding: EdgeInsets.symmetric(horizontal: 40),
       height: 120,
-      width: 351,
+      width: 350,
       color: Colors.transparent,
       child: TextField(
         textInputAction: TextInputAction.none,
